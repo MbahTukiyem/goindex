@@ -30,7 +30,8 @@ th{font-weight:400}
 .icon-rar{background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA8AAAASCAQAAAAul0yEAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAAAmJLR0QA/4ePzL8AAAAJcEhZcwAAAGAAAABgAPBrQs8AAAAHdElNRQfkBQkKBzZ5hbVGAAABZ0lEQVQoz12SPSjEcRjHP7+Xu59z56XzEhIuk8F2isFmMxhMUnal1NmUiUzYThl0ZVBmVjNZxEAhfyVFuPP2P/R/+RmOc3ye8dvz7en7fTBbosDj74iPqmxfpJ1uAIS6EDP+NZISITNiNDZdXOuhikPgiGYqWcbK+5phWAXgmNYfpQtQC1isOkmk4oCuXHSIEt14L4axYMTtxPkn5/AQZ+EiipS1/DcvI+mhnh9zDfhEaMTlFUlt+HIaIEigAZtSTisa39y61SSx+t6YYh2IFw2EV71BDunL26zfb9OBeNoOkwxar/igAevVU2DOjnwO2QYytHljWLJc+tnS5QEpZmmTB0GSODEsigkKUpbCFCKvOyKfZoMm5slg8LSr0rGVkqysk5iUHh3cMU4GD8SS2QzTGhDcsKv3ElNvHzTj8MoOeOct+8/d5UokccyfbJIYtIqLAf8aGebdy7/R5QG+3+GZ9XLnFXwBD+yC4BnhT5YAAAAldEVYdGRhdGU6Y3JlYXRlADIwMjAtMDUtMDlUMTA6MDc6NTQrMDA6MDAsETXuAAAAJXRFWHRkYXRlOm1vZGlmeQAyMDIwLTA1LTA5VDEwOjA3OjU0KzAwOjAwXUyNUgAAAABJRU5ErkJggg==) left top no-repeat}
 </style>`);
 
- 
+<footer>Enemy</footer>
+
 // .icon-image{background:url() left top no-repeat}
 // .icon-video{background:url() left top no-repeat}
 // 
