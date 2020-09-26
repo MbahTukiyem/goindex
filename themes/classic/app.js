@@ -8,7 +8,7 @@ th{font-weight:400}
 .file-type{text-align:center}
 .file-size{padding-left:4em}
 .file-date-created,
-.file-date-modified{padding-left:2em}
+.file-date-modified,
 .file-date-created,
 .file-date-modified{text-align:left}
 .file-size{text-align:end;white-space:nowrap}
