@@ -10,7 +10,7 @@ th{font-weight:400}
 .file-date-created,
 .file-date-modified{padding-left:2em}
 .file-date-created,
-.file-date-modified{text-align:center}
+.file-date-modified{text-align:left}
 .file-size{text-align:end;white-space:nowrap}
 .icon{padding-left:1.5em;text-decoration:none}
 .icon:hover{text-decoration:underline}
@@ -335,7 +335,7 @@ function utc2beijing(utc_datetime) {
     var Z_pos = utc_datetime.indexOf('Z');
     var year_month_day = utc_datetime.substr(0,T_pos);
     var hour_minute_second = utc_datetime.substr(T_pos+1,Z_pos-T_pos-1);
-    var new_datetime = year_month_day+" "+hour_minute_second; // 2017-03-31 08:02:06
+    var new_datetime = day_month_year+" "+hour_minute_second; // 2017-03-31 08:02:06
 
     // 处理成为时间戳
     timestamp = new Date(Date.parse(new_datetime));
