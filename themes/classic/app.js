@@ -3,7 +3,7 @@ document.write(`
 *{box-sizing:border-box}
 h1{border-bottom:1px solid silver;margin-bottom:10px;padding-bottom:10px;white-space:nowrap}
 table{border-collapse:collapse;font-family:Consolas,monaco,monospace}
-th{font-weight:700}
+th{font-weight:400}
 .file-name{text-align:left}
 .file-type{text-align:center}
 .file-size{padding-left:4em}
@@ -81,7 +81,7 @@ function nav(path){
 // 渲染文件列表
 function list(path){
 	var content = `
-<tr><th class="file-name">Name</th><th class="file-size">Ukuran</th><th class="file-date-modified">Date Modified</th><th class="file-type">Type</th></tr>
+<tr><th class="file-name">Nama</th><th class="file-size">Ukuran</th><th class="file-date-modified">Tanggal Ditambahkan Pada</th><th class="file-type">Tipe</th></tr>
 	`;
 
 	if(path != '/'){
