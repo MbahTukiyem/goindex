@@ -10,7 +10,7 @@ th{font-weight:400}
 .file-date-created,
 .file-date-modified{padding-left:2em}
 .file-date-created,
-.file-date-modified{text-align:left}
+.file-date-modified,
 .file-size{text-align:end;white-space:nowrap}
 .icon{padding-left:1.5em;text-decoration:none}
 .icon:hover{text-decoration:underline}
