@@ -7,10 +7,10 @@ th{font-weight:400}
 .file-name{text-align:left}
 .file-type{text-align:center}
 .file-size{padding-left:4em}
-.file-date-created{text-align:left}
+.file-date-created,
 .file-date-modified{padding-left:2em}
 .file-date-created,
-.file-date-modified,
+.file-date-modified{text-align:left}
 .file-size{text-align:end;white-space:nowrap}
 .icon{padding-left:1.5em;text-decoration:none}
 .icon:hover{text-decoration:underline}
